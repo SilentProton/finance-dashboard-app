@@ -1,6 +1,6 @@
 {
-  "extends": ["react-app"],
-  "rules": {
-    // you can still override rules here
-  }
+  "extends": [
+    "react-app",
+    "plugin:prettier/recommended"
+  ]
 }
